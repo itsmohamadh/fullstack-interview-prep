@@ -51,4 +51,4 @@ Check the `videos.md` files in each section.
 
 ---
 
-**Good luck with your interviews!** 🚀
+🚀 [Community chat](https://t.me/mohamadslog) — for questions and accountability
