@@ -10,9 +10,17 @@ This repository is a **roadmap**, **cheatsheet**, and **last-minute reminder** f
 
 Start here → [`frontend/js/questions.md`](frontend/js/questions.md)
 
+### Have 10 minutes?
+
+Read `questions.md` for a quick refresher.
+
+### Have 30 minutes?
+
+Go through `self-check.md` to test yourself. Try to answer before looking at the solutions.
+
 ### Have an interview in 1-2 days?
 
-Skip the coding folder. Read the `questions.md` files under each topic as a final refresher.
+Skip the coding folder. Read the `questions.md` and selectively `self-check.md` files under each topic as a final refresher.
 
 ### Have 1-2 weeks?
 
@@ -26,22 +34,21 @@ Work through the topics in this order:
 
 ## 📚 Topics
 
-| Topic | Status |
-|-------|--------|
-| Web (HTTP, Browser, APIs) | ✅ Ready |
-| CSS | ✅ Ready |
-| JavaScript | ✅ Ready |
-| TypeScript | ✅ Ready |
-| React | ✅ Ready |
-| Nextjs | 🔜 Coming soon |
-| Node.js | 🔜 Coming soon |
-| Express | 🔜 Coming soon |
-| SQL | 🔜 Coming soon |
-| Redis | 🔜 Coming soon |
-| RabbitMQ | 🔜 Coming soon |
-| System Design (basics) | 🔜 Coming soon |
-| Behavioral (STAR method) | 🔜 Coming soon |
-
+| Topic                     | Status         |
+| ------------------------- | -------------- |
+| Web (HTTP, Browser, APIs) | ✅ Ready       |
+| CSS                       | ✅ Ready       |
+| JavaScript                | ✅ Ready       |
+| TypeScript                | ✅ Ready       |
+| React                     | ✅ Ready       |
+| Nextjs                    | ✅ Ready       |
+| Node.js                   | ✅ Ready       |
+| Express                   | ✅ Ready       |
+| SQL                       | 🔜 Coming soon |
+| Redis                     | 🔜 Coming soon |
+| RabbitMQ                  | 🔜 Coming soon |
+| System Design (basics)    | 🔜 Coming soon |
+| Behavioral (STAR method)  | 🔜 Coming soon |
 
 > Want a topic faster? [Watch this repo](https://github.com/itsmohamadh/fullstack-interview-prep) to get notified when new content drops.
 
