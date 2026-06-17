@@ -27,10 +27,13 @@ Skip the coding folder. Read the `questions.md` and selectively `self-check.md` 
 Work through the topics in this order:
 
 1. [JavaScript](frontend/js/questions.md) + [Coding challenges](frontend/js/coding/)
-2. [React](frontend/react/questions.md)
+2. [React](frontend/react/questions.md) + [Next.js](frontend/nextjs/questions.md)
 3. [TypeScript](frontend/ts/questions.md)
 4. [CSS](frontend/css/questions.md)
 5. [Web](frontend/web/questions.md)
+6. [Node.js](backend/node/questions.md)
+7. [SQL](backend/sql/questions.md)
+8. [Redis](backend/redis/questions.md)
 
 ## 📚 Topics
 
@@ -41,12 +44,13 @@ Work through the topics in this order:
 | JavaScript                | ✅ Ready       |
 | TypeScript                | ✅ Ready       |
 | React                     | ✅ Ready       |
-| Nextjs                    | ✅ Ready       |
+| Next.js                   | ✅ Ready       |
 | Node.js                   | ✅ Ready       |
 | Express                   | ✅ Ready       |
-| SQL                       | 🔜 Coming soon |
-| Redis                     | 🔜 Coming soon |
+| SQL                       | ✅ Ready       |
+| Redis                     | ✅ Ready       |
 | RabbitMQ                  | 🔜 Coming soon |
+| WebSockets                | 🔜 Coming soon |
 | System Design (basics)    | 🔜 Coming soon |
 | Behavioral (STAR method)  | 🔜 Coming soon |
 
