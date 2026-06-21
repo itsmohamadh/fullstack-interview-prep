@@ -34,6 +34,7 @@ Work through the topics in this order:
 6. [Node.js](backend/node/questions.md)
 7. [SQL](backend/sql/questions.md)
 8. [Redis](backend/redis/questions.md)
+9. [WebSockets](backend/websockets/questions.md)
 
 ## 📚 Topics
 
@@ -50,7 +51,7 @@ Work through the topics in this order:
 | SQL                       | ✅ Ready       |
 | Redis                     | ✅ Ready       |
 | RabbitMQ                  | 🔜 Coming soon |
-| WebSockets                | 🔜 Coming soon |
+| WebSockets                | ✅ Ready       |
 | System Design (basics)    | 🔜 Coming soon |
 | Behavioral (STAR method)  | 🔜 Coming soon |
 
