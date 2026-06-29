@@ -50,10 +50,10 @@ Work through the topics in this order:
 | Express                   | ✅ Ready       |
 | SQL                       | ✅ Ready       |
 | Redis                     | ✅ Ready       |
-| RabbitMQ                  | 🔜 Coming soon |
+| RabbitMQ                  | ✅ Ready       |
 | WebSockets                | ✅ Ready       |
 | System Design (basics)    | 🔜 Coming soon |
-| Behavioral (STAR method)  | 🔜 Coming soon |
+| Behavioral (STAR method)  | ✅ Ready       |
 
 > Want a topic faster? [Watch this repo](https://github.com/itsmohamadh/fullstack-interview-prep) to get notified when new content drops.
 
@@ -64,3 +64,143 @@ Check the `videos.md` files in each section.
 ---
 
 🚀 [Community chat](https://t.me/mohamadslog) — for questions and accountability
+
+```
+fullstack-interview-prep
+├─ README.md
+├─ backend
+│  ├─ node
+│  │  ├─ questions.md
+│  │  └─ self-check.md
+│  ├─ rabbitmq
+│  │  ├─ questions.md
+│  │  └─ videos.md
+│  ├─ redis
+│  │  ├─ questions.md
+│  │  └─ videos.md
+│  ├─ sql
+│  │  ├─ questions.md
+│  │  ├─ self-check.md
+│  │  └─ videos.md
+│  └─ websockets
+│     ├─ questions.md
+│     └─ videos.md
+├─ behavioral
+├─ devops-git
+│  ├─ docker
+│  │  ├─ questions.md
+│  │  └─ videos.md
+│  └─ git
+│     ├─ questions.md
+│     └─ videos.md
+├─ experience
+│  └─ questions.md
+├─ frontend
+│  ├─ css
+│  │  └─ questions.md
+│  ├─ js
+│  │  ├─ cheatsheet
+│  │  │  ├─ arrow-vs-regular-function.md
+│  │  │  ├─ debounce vs throttle.png
+│  │  │  ├─ debounce-throttle.md
+│  │  │  ├─ methods.md
+│  │  │  └─ time-space-complexity.md
+│  │  ├─ coding
+│  │  │  ├─ array
+│  │  │  │  ├─ 01.js
+│  │  │  │  ├─ 02.js
+│  │  │  │  ├─ 03.js
+│  │  │  │  ├─ 04.js
+│  │  │  │  ├─ 05.js
+│  │  │  │  ├─ 06.js
+│  │  │  │  ├─ 07.js
+│  │  │  │  ├─ 08.js
+│  │  │  │  ├─ 09.js
+│  │  │  │  ├─ 10.js
+│  │  │  │  ├─ 11.js
+│  │  │  │  ├─ 12.js
+│  │  │  │  ├─ 13.js
+│  │  │  │  ├─ 14.js
+│  │  │  │  ├─ 15.js
+│  │  │  │  ├─ 16.js
+│  │  │  │  └─ 17.js
+│  │  │  ├─ dates
+│  │  │  │  ├─ 01.js
+│  │  │  │  ├─ 02.js
+│  │  │  │  ├─ 03.js
+│  │  │  │  ├─ 04.js
+│  │  │  │  ├─ 05.js
+│  │  │  │  ├─ 06.js
+│  │  │  │  ├─ 07.js
+│  │  │  │  └─ 08.js
+│  │  │  ├─ fundamentals
+│  │  │  │  ├─ 00.js
+│  │  │  │  ├─ 01.js
+│  │  │  │  ├─ 02.js
+│  │  │  │  ├─ 03.js
+│  │  │  │  ├─ 04.js
+│  │  │  │  ├─ 05.js
+│  │  │  │  ├─ 06.js
+│  │  │  │  ├─ 07.js
+│  │  │  │  ├─ 08.js
+│  │  │  │  ├─ 09.js
+│  │  │  │  ├─ 10.js
+│  │  │  │  ├─ 11.js
+│  │  │  │  ├─ 12.js
+│  │  │  │  ├─ 13.js
+│  │  │  │  ├─ 14.js
+│  │  │  │  ├─ 15.js
+│  │  │  │  ├─ 16.js
+│  │  │  │  ├─ 17.js
+│  │  │  │  ├─ 18.js
+│  │  │  │  └─ 19.js
+│  │  │  ├─ interview-challenges
+│  │  │  │  ├─ 01.js
+│  │  │  │  ├─ 02.js
+│  │  │  │  ├─ 03.js
+│  │  │  │  ├─ 04.js
+│  │  │  │  └─ 05.js
+│  │  │  ├─ objects
+│  │  │  │  ├─ 01.js
+│  │  │  │  ├─ 02.js
+│  │  │  │  ├─ 03.js
+│  │  │  │  ├─ 04.js
+│  │  │  │  ├─ 05.js
+│  │  │  │  ├─ 06.js
+│  │  │  │  ├─ 07.js
+│  │  │  │  ├─ 08.js
+│  │  │  │  ├─ 09.js
+│  │  │  │  ├─ 10.js
+│  │  │  │  └─ 11.js
+│  │  │  ├─ package.json
+│  │  │  └─ sets
+│  │  │     ├─ 01.js
+│  │  │     ├─ 02.js
+│  │  │     ├─ 03.js
+│  │  │     ├─ 04.js
+│  │  │     ├─ 05.js
+│  │  │     ├─ 06.js
+│  │  │     ├─ 07.js
+│  │  │     └─ 08.js
+│  │  ├─ questions.md
+│  │  └─ videos.md
+│  ├─ nextjs
+│  │  ├─ hydration-errors.md
+│  │  ├─ questions.md
+│  │  ├─ self-check.md
+│  │  └─ videos.md
+│  ├─ react
+│  │  ├─ common-mistakes.md
+│  │  ├─ live-coding-flow.md
+│  │  ├─ questions.md
+│  │  ├─ self-check.md
+│  │  └─ videos.md
+│  ├─ system-design
+│  │  └─ videos.md
+│  ├─ ts
+│  │  └─ questions.md
+│  └─ web
+│     └─ questions.md
+└─ philosophy.md
+
+```
